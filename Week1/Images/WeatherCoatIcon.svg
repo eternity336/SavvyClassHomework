@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg726"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="WeatherCoatIcon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview728"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.8761364"
+     inkscape:cx="326.46881"
+     inkscape:cy="518.61902"
+     inkscape:window-width="3840"
+     inkscape:window-height="2089"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs723" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1986"
+       inkscape:export-filename="WeatherCoatIcon.png"
+       inkscape:export-xdpi="354.51"
+       inkscape:export-ydpi="354.51">
+      <path
+         id="rect1278"
+         style="fill:#0066ff;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+         d="m 78.046088,113.42204 v 1.10071 l -27.974519,69.05521 h 27.974519 53.907822 27.97452 l -27.97452,-69.05625 v -1.09967 h -0.44545 -53.016403 z" />
+      <g
+         id="g1172"
+         transform="matrix(0.58503994,0,0,0.58503994,33.178864,67.768252)">
+        <path
+           id="rect899"
+           style="fill:#6f8a91;fill-rule:evenodd;stroke-width:0.926242;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+           d="m 122.76253,74.551005 c -9.83651,0.669609 -19.67279,-1.081785 -29.509307,2.73632 L 78.604504,76.235713 63.955269,83.532273 10.612272,120.64595 60.64126,201.43613 h 62.12127 5.2e-4 62.12127 l 50.02899,-80.79018 -53.343,-37.113677 -14.64872,-7.29656 -14.64923,1.051612 c -9.83651,-3.818105 -19.6728,-2.066711 -29.50931,-2.73632 l -5.2e-4,39.600835 z M 60.64126,120.85743 v 36.17556 L 40.157239,130.59681 Z m 124.24306,0 20.48402,9.73938 -20.48402,26.43618 z" />
+        <path
+           id="path1033"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 80.87801,90.766367 -17.768941,12.692253 39.769141,81.79501 17.04444,-6.8864 2.84014,-6.20376 2.84013,6.20376 17.04444,6.8864 39.76915,-81.79501 -17.76894,-12.692253 -30.48135,68.388593 -11.40343,-9.58132 -11.40344,9.58132 z" />
+      </g>
+    </g>
+  </g>
+</svg>
