@@ -123,6 +123,8 @@
     - LINK/IMAGES
   ### WEATHERCOAT:
   <br>
+  <img alt='About Me Wireframe' src="Images/About Me Wireframe.jpg" width="500">
+  <img alt='Contact Me Wireframe' src="Images/Contact Me Wireframe.jpg" width="500">
   <img alt='WeatherCoat Wireframe 1' src="Images/WeatherCoat_Wireframe1.jpg" width="500">
   <img alt='WeatherCoat Wireframe 2' src="Images/WeatherCoat_Wireframe2.jpg" width="500">
 
