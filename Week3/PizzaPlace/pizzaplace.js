@@ -4,6 +4,16 @@ function greetCustomer(guest){
   console.log(`Welcome ${guest} to the Pizza Place!  The toppings today are ${listToppingsAnd(pizzaToppings)}.`);
 };
 
+function checkToppings(toppings){
+  for (top of toppings){
+    if (!(pizzaToppings.includes(top.toLowerCase()))){
+      console.log("We do not have some of these toppings please order again.")
+      return false;
+    }
+  }
+  return true;
+}
+
 function getPizzaOrder(size, crust, toppings){
   if (!checkToppings(toppings)){
     return;
@@ -35,21 +45,11 @@ function listToppingsAnd(toppings){
   if (toppings.length == 1){
     return toppings[0];
   };
-  let tops = toppings[0];
+  let tops = toppings[0]; 
   for (top of toppings.slice(1, toppings.length - 1)){
     tops += `, ${top}`;
   };
   return `${tops} and ${toppings[toppings.length - 1]}`;
-}
-
-function checkToppings(toppings){
-  for (top of toppings){
-    if (!(pizzaToppings.includes(top.toLowerCase()))){
-      console.log("We do not have some of these toppings please order again.")
-      return false;
-    }
-  }
-  return true;
 }
 
 function pushPizza(pizza){
