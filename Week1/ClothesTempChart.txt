@@ -1,0 +1,5 @@
+Winter jacket: Less than 25 degrees.
+Light to medium coat: 25 to 44 degrees.
+Fleece: 45 to 64 degrees.
+Short sleeves: 65 to 79 degrees.
+Shorts: 80 degrees and above.
