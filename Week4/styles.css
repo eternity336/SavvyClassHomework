@@ -43,6 +43,7 @@ html {
     font-size: 5vh;
     font-style:italic;
     box-shadow: 5px 5px rgb(123, 123, 123);
+    margin-bottom: 20px;
 }
 
 header {
