@@ -1204,6 +1204,7 @@ let todo_link = [
 // then find the number of user 9's incomplete tasks
 let todo_not_finished_9 = todo_link.filter(item => item.userId == 9 && item.completed == false);
 console.log(todo_not_finished_9);
+console.log(`User 9 has ${todo_not_finished_9.length} incomplete tasks`)
 
 
 // create an object that summarizes the incomplete tasks of users 3, 7, & 8
